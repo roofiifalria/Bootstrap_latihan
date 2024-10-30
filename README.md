@@ -5,3 +5,6 @@
 Membuat Sebuah page login dan register menggunakan bootstrap
 
 https://roofiifalria.github.io/Bootstrap_latihan
+
+hosting
+bootstrap-latihan-two.vercel.app
